@@ -1,16 +1,16 @@
 简体中文 | [English](./README.md)
 
 <div align="center">
-<h1>site-status</h1>
+<h1>vercel-site-status</h1>
 <p>一个基于 UptimeRobot API 的在线状态面板</p>
 <br />
-<img src="https://img.shields.io/github/last-commit/imsyy/site-status" alt="last commit"/>
-<img src="https://img.shields.io/github/languages/code-size/imsyy/site-status" alt="code size"/>
-<img src="https://img.shields.io/github/stars/imsyy/site-status?style=full" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/forks/imsyy/site-status?style=full&color=orange" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/last-commit/kaiserverkcraft/vercel-site-status" alt="last commit"/>
+<img src="https://img.shields.io/github/languages/code-size/kaiserverkcraft/vercel-site-status" alt="code size"/>
+<img src="https://img.shields.io/github/stars/kaiserverkcraft/vercel-site-status?style=full" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/forks/kaiserverkcraft/vercel-site-status?style=full&color=orange" alt="GitHub followers"/>
 <br />
 <br />
-<img src="https://s1.ax1x.com/2023/07/20/pCHnLLt.png" alt="demo"/>
+<img src="https://img.fastmirror.net/s/2025/12/12/693be3777c8a0.png" alt="demo"/>
 </div>
 
 ## 👀 Demo
@@ -20,6 +20,7 @@
 ## 🎉 特色
 
 - 🌍 多平台部署支持
+- 为原版优化了探测日志 以及原本的无法针对PORT监测的不显示Link
 - ✨ 优雅且流畅的浏览体验
 - 🔐 支持站点密码加密（JWT + Hash）
 - 👀 全站状态预览
@@ -43,7 +44,7 @@
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imsyy/site-status)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kaiserverkcraft/vercel-site-status)
 
 - 点击上方按钮以前往部署
 - 在环境变量中添加下方的内容（ 重要 ）

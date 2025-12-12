@@ -4,13 +4,13 @@ English | [简体中文](./README.zh-CN.md)
 <h1>site-status</h1>
 <p>An online status panel based on UptimeRobot API</p>
 <br />
-<img src="https://img.shields.io/github/last-commit/imsyy/site-status" alt="last commit"/>
-<img src="https://img.shields.io/github/languages/code-size/imsyy/site-status" alt="code size"/>
-<img src="https://img.shields.io/github/stars/imsyy/site-status?style=full" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/forks/imsyy/site-status?style=full&color=orange" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/last-commit/kaiserverkcraft/vercel-site-status" alt="last commit"/>
+<img src="https://img.shields.io/github/languages/code-size/kaiserverkcraft/vercel-site-status" alt="code size"/>
+<img src="https://img.shields.io/github/stars/kaiserverkcraft/vercel-site-status?style=full" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/forks/kaiserverkcraft/vercel-site-status?style=full&color=orange" alt="GitHub followers"/>
 <br />
 <br />
-<img src="https://s1.ax1x.com/2023/07/20/pCHnLLt.png" alt="demo"/>
+<img src="https://img.fastmirror.net/s/2025/12/12/693be3777c8a0.png" alt="demo"/>
 </div>
 
 ## 👀 Demo
@@ -44,7 +44,7 @@ This project is deployed by default using [Cloudflare Pages](https://pages.cloud
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/imsyy/site-status)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kaiserverkcraft/vercel-site-status)
 
 - Click the button above to deploy.
 - Add the following environment variables (important):
